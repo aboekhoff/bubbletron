@@ -1,0 +1,55 @@
+circle
+圆圈 yuan2quan1
+
+ball
+球 qiu
+
+line
+线条 xian4tiao2
+
+beam/ray
+射线 she4xian4
+
+bounce
+弹起 tan2qi3
+弹跳 tan2tiao4
+
+move
+移动 yi2dong4
+
+random
+随机 sui2ji1
+
+laser
+激光 ji1guang1
+
+push
+推 tui1
+
+pull
+拉 la1
+
+force
+推动 tui1dong4
+
+click on
+点击 dian2ji1
+
+drag
+拖动 tuo1dong4
+
+game
+游戏 you2xi4
+
+approach
+靠地 kao4de5(1)
+
+shoot at
+射向
+
+connect
+连接 lian2jie1
+
+当两个同样颜色的圆圈靠地很近的时候，一条相同颜色的射线会连接两个圆圈。
+
+
